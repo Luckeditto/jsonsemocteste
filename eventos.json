@@ -1,0 +1,37 @@
+[
+  {
+    "titulo": "Palestra",
+    "descricao": "Mario Jorge - 20/10",
+    "imagem_url": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto\u003dcompress\u0026cs\u003dtinysrgb\u0026w\u003d1260\u0026h\u003d750\u0026dpr\u003d1",
+    "conteudo": "wow",
+    "tema": "AI will kill us all, it\u0027s just a matter of time"
+  },
+  {
+    "titulo": "Dinâmica",
+    "descricao": "Jorge Pereira - 21/10",
+    "imagem_url": "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto\u003dcompress\u0026cs\u003dtinysrgb\u0026w\u003d1260\u0026h\u003d750\u0026dpr\u003d1",
+    "conteudo": "conteudo uau",
+    "tema": "Confiança Empresarial"
+  },
+  {
+    "titulo": "Mesa Redonda",
+    "descricao": "Jucelia Bastos - 21/10",
+    "imagem_url": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto\u003dcompress\u0026cs\u003dtinysrgb\u0026w\u003d1260\u0026h\u003d750\u0026dpr\u003d1",
+    "conteudo": "conteudo uau",
+    "tema": "Crescimento da industrialização"
+  },
+  {
+    "titulo": "Bate Papo",
+    "descricao": "Carla Perez - 22/10",
+    "imagem_url": "https://images.pexels.com/photos/1181519/pexels-photo-1181519.jpeg?auto\u003dcompress\u0026cs\u003dtinysrgb\u0026w\u003d1260\u0026h\u003d750\u0026dpr\u003d1",
+    "conteudo": "conteudo uau",
+    "tema": "Pedagogia no Ensino Superior"
+  },
+  {
+    "titulo": "Palestra",
+    "descricao": "Samira Romena - 23/10",
+    "imagem_url": "https://images.pexels.com/photos/871495/pexels-photo-871495.jpeg?auto\u003dcompress\u0026cs\u003dtinysrgb\u0026w\u003d1260\u0026h\u003d750\u0026dpr\u003d1",
+    "conteudo": "conteudo uau",
+    "tema": "Situações Precárias dos Estudantes de Engenharia no Brasil"
+  }
+]
