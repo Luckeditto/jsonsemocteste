@@ -1,17 +1,30 @@
 # SEMOC - Sistema para o evento 
 
-O SemoC2 é um aplicativo Android que permite aos usuários visualizar informações sobre eventos e palestrantes de um evento específico. O aplicativo é composto por vários fragmentos e atividades que exibem essas informações de forma clara e interativa.
+O Semoc é um aplicativo Android que permite aos usuários visualizar informações sobre eventos e palestrantes da SEMOC. O aplicativo é composto por vários fragmentos e atividades que exibem essas informações de forma clara e interativa.
 
 ## Capturas de Tela
 
-![Tela Inicial](screenshots/screenshot1.png)
+
 *Figura 1: Tela inicial exibindo eventos disponíveis*
 
-![Tela de Palestrantes](screenshots/screenshot2.png)
+![Tela Inicial](screenshots/listaeventos.png)
+
+*Figura 1.1: Tela  exibindo mais informações de um evento selecionado pelo usuário*
+
+![Tela Evento](screenshots/programadetalhes.png)
+
 *Figura 2: Tela de palestrantes*
 
-![Tela do Mapa](screenshots/screenshot3.png)
+![Tela de Palestrantes](screenshots/listapalestrantes.png)
+
+*Figura 2.1: Tela exibindo mais detalhes do palestrante selecionado*
+
+![Tela do Palestrante](screenshots/perfilpalestrantes.png)
+
 *Figura 3: Mapa da Localização do Evento*
+
+![Tela do Mapa](screenshots/mapa.png)
+
 
 ## Recursos Principais
 
@@ -19,7 +32,7 @@ O SemoC2 é um aplicativo Android que permite aos usuários visualizar informaç
 
 - **Visualização de Palestrantes:** O fragmento "Palestrantes" exibe uma lista de palestrantes que participarão do evento. Os usuários podem tocar em um palestrante para visualizar informações detalhadas.
 
-- **Mapa de Localização:** O fragmento "Mapa" exibe um mapa com uma localização específica.
+- **Mapa de Localização:** O fragmento "Mapa" exibe um mapa com a localização específica do evento.
 
 ## Tecnologias Usadas
 
@@ -29,16 +42,6 @@ O SemoC2 é um aplicativo Android que permite aos usuários visualizar informaç
 
 - **RecyclerView:** É utilizado para exibir listas de eventos e palestrantes de forma eficiente.
 
-## Configuração e Execução
-
-1. Clone o repositório para o seu ambiente de desenvolvimento.
-
-2. Abra o projeto no Android Studio.
-
-3. Certifique-se de que as dependências e bibliotecas estão configuradas corretamente.
-
-4. Execute o aplicativo em um emulador Android ou dispositivo físico.
-
 ## API de Dados
 
 O aplicativo consome uma API de dados para buscar informações sobre eventos. A interface `MyApiService` define os métodos de busca de dados, como a lista de eventos. Os dados são então exibidos nas atividades correspondentes.
@@ -47,16 +50,22 @@ O aplicativo consome uma API de dados para buscar informações sobre eventos. A
 
 - Você é bem-vindo para contribuir para o projeto reportando problemas, enviando solicitações de pull ou melhorando a documentação.
 
-- Certifique-se de seguir as diretrizes de contribuição do projeto ao enviar solicitações de pull.
 
 ## Autores
 
-- [Seu Nome](https://github.com/seu-usuario) - Desenvolvedor Principal
+- [Lucas Araújo](https://github.com/Luckeditto) - Desenvolvedor
+- [Bryan Hamilton](https://github.com/bhamilton0451) - Desenvolvedor
+- [Eduardo Lopes](https://github.com/eduardolopesx02) - Desenvolvedor 
 
-## Licença
+## Agradecimentos e Fontes
 
-Este projeto é licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
+- Agradecemos a todos os colaboradores e à comunidade Android por tornar este projeto possível.
+- Agradecimento especial ao professor Mario Jorge (https://cloud.google.com/apis?hl=pt-br) pelo direcionamento no trabalho, somos gratos.
+- Foram utilizadas para pesquisa e elaboração do código várias fontes, das quais essas se destacam:
+- https://square.github.io/retrofit/
+- https://chat.openai.com/
+- https://developer.android.com/docs?hl=pt-br
+- https://cloud.google.com/apis?hl=pt-br
+- StackOverflow
+  
 
-## Agradecimentos
-
-- Agradecemos a todos os colaboradores e à comunidade de código aberto por tornar este projeto possível.
