@@ -1,4 +1,4 @@
-# SemoC2 - Sistema de Eventos e Palestrantes
+# SEMOC - Sistema para o evento 
 
 O SemoC2 é um aplicativo Android que permite aos usuários visualizar informações sobre eventos e palestrantes de um evento específico. O aplicativo é composto por vários fragmentos e atividades que exibem essas informações de forma clara e interativa.
 
@@ -10,13 +10,16 @@ O SemoC2 é um aplicativo Android que permite aos usuários visualizar informaç
 ![Tela de Palestrantes](screenshots/screenshot2.png)
 *Figura 2: Tela de palestrantes*
 
+![Tela do Mapa](screenshots/screenshot3.png)
+*Figura 3: Mapa da Localização do Evento*
+
 ## Recursos Principais
 
 - **Visualização de Eventos:** O fragmento "Home" exibe uma lista de eventos disponíveis, incluindo seus títulos e descrições. Os usuários podem tocar em um evento para obter mais detalhes.
 
-- **Visualização de Palestrantes:** O fragmento "Gallery" exibe uma lista de palestrantes que participarão do evento. Os usuários podem tocar em um palestrante para visualizar informações detalhadas.
+- **Visualização de Palestrantes:** O fragmento "Palestrantes" exibe uma lista de palestrantes que participarão do evento. Os usuários podem tocar em um palestrante para visualizar informações detalhadas.
 
-- **Mapa de Localização:** O fragmento "Slideshow" exibe um mapa com uma localização específica.
+- **Mapa de Localização:** O fragmento "Mapa" exibe um mapa com uma localização específica.
 
 ## Tecnologias Usadas
 
